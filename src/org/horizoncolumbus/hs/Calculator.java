@@ -4,7 +4,7 @@ public class Calculator {
 
     public static void main(String[] args) {
 // write your code here
-        boolean isJunior = false; // true // false
+        boolean isJunior = false; // true // false //
         boolean isSenior = false;
         boolean isTeacher = false;
         boolean isAdmin = false;
